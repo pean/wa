@@ -1,4 +1,4 @@
 RewriteEngine on
 RewriteBase /git/pa/wa/
 RewriteCond %{REQUEST_FILENAME} !-f
-RewriteRule ^(.*)$ index.php [L]
+RewriteRule ^([a-zA-Z0-9]+)$ index.php [L]
