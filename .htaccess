@@ -1,4 +1,0 @@
-RewriteEngine on
-RewriteBase /
-RewriteCond %{REQUEST_FILENAME} !-f
-RewriteRule ^([a-zA-Z0-9]+)$ index.php [L]
