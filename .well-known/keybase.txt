@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/pean
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://wa.se
+  * I am pean (https://keybase.io/pean) on keybase.
+  * I have a public key ASDeNXISUODcKHs0nQAGhExSvqm3oEZLeKZrm45MQcnAYwo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "01017d30fc8018894f9057461f6e8ca6c3e00f4f59b6314480e6f66362e55a0c46b70a",
+      "host": "keybase.io",
+      "kid": "0120de35721250e0dc287b349d0006844c52bea9b7a0464b78a66b9b8e4c41c9c0630a",
+      "uid": "0bb37cee9b8d0ae14e5b01baef1d7819",
+      "username": "pean"
+    },
+    "merkle_root": {
+      "ctime": 1653256485,
+      "hash": "ca1847a42a0059e88c18711eda86103846587c848c8f7f8ae7cdccf41139a0160101dda599ea08f3481ce948d37383aeb229fc6d317ed5cbdef05bb8e4fcbf09",
+      "hash_meta": "c9d049a14f04e7786d612400e41a3bf9b521d70d583af2305fd33ba7079873c8",
+      "seqno": 22533484
+    },
+    "service": {
+      "entropy": "TphRO0172wzf3VVmeSOthl6S",
+      "hostname": "wa.se",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "5.9.2"
+  },
+  "ctime": 1653256566,
+  "expire_in": 504576000,
+  "prev": "a2a3fd0905396c007cd3659c26cc871c69c3848336038b9583dd709691c0bda9",
+  "seqno": 44,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEg3jVyElDg3Ch7NJ0ABoRMUr6pt6BGS3ima5uOTEHJwGMKp3BheWxvYWTESpcCLMQgoqP9CQU5bAB802WcJsyHHGnDhIM2A4uVg91wlpHAvanEIIwNnUbRR1sX3/HlO4wdeaUS9ymdDwBPA7H6KpUHgl8BAgHCo3NpZ8RATpSSBmToSIh5lRSGMMzzragGwmjgowiS9bGMoY8i5ximdcOEZI8RrDBnmCwMQnwk2PWZQH9++yy9kwuU1oFNAKhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEINi1sVsB/bQyqR25WblOZIfs/2T5RU6gz5G1l+Xs2/loo3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/pean
+
+==================================================================
